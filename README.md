@@ -1,40 +1,40 @@
 # Lab Exercise -3.10
 1. **Using 'Excel Options' do the following customization**
-  1. Set default two worksheets in a workbook. Original Number is three.
+  a. Set default two worksheets in a workbook. Original Number is three.
 ![Excel Labwork](images/Image01.png "Add Update sheets count")
     - On 'General Tab' of 'Excel Options'
     - Change the value to 2 on 'Include this many sheets'
     - Click on OK
-  1. Disable auto recover for your current workbook.
+  b. Disable auto recover for your current workbook.
 ![Excel Labwork](images/Image02.png "Add Update sheets count")
     - On 'Save Tab' of 'Excel Options'
     - Check 'Disable AutoRecover for this workbook only'
     - Click on OK
-  1. Set the Recent number of documents to be displayed to two
+  c. Set the Recent number of documents to be displayed to two
 ![Excel Labwork](images/Image03.png "Add Update sheets count")
     - On 'Advance Tab' of 'Excel Options'
     - Change 'Show this number of workbook' value to 2
     - Click on OK
-  1. Don't display grid lines
+  d. Don't display grid lines
 ![Excel Labwork](images/Image04.png "Add Update sheets count")
     - On 'Advanced Tab' of 'Excel Options'
     - Uncheck 'Show Gridlines'
     - Click on OK
-  1. Enable show page breaks
+  e. Enable show page breaks
 ![Excel Labwork](images/Image05.png "Add Update sheets count")
     - On Advanced Tab' of 'Excel Options'
     - Uncheck 'Show page breaks'
     - Click on OK
-  1. Set the Enter key direction so that the cursor moves to right when you press enter in a cell
+  f. Set the Enter key direction so that the cursor moves to right when you press enter in a cell
 ![Excel Labwork](images/Image06.png "Add Update sheets count")
     - On Advanced Tab' of 'Excel Options'
     - Choose Right on Direction for 'After pressing Enter, move selection'
     - Click on OK
-1. **Open a new workbook. Create a table with two columns. Use columns A and B of the worksheet. The headings for the first one should be First Name. Give the heading as Last Name for the second column. Add records in the table. Please enter first name as rahul and the second name as gandhi. Your data should contain multiple records with the same first or last name. Save workbook as "Student.xslx"**
+2. **Open a new workbook. Create a table with two columns. Use columns A and B of the worksheet. The headings for the first one should be First Name. Give the heading as Last Name for the second column. Add records in the table. Please enter first name as rahul and the second name as gandhi. Your data should contain multiple records with the same first or last name. Save workbook as "Student.xslx"**
 ![Excel Labwork](images/Image07.png "Add Update sheets count")
 Column Heading added as **First Name** and **Last Name.** List of data added on it.
 [Student-Workbook](https://1drv.ms/x/s!AnCi4pjT6ASAhA0C8vuq9z3DuU3n?e=rBPQBx)
-1. **Open "Student.xslx". Create another table using column E and F. Again the heading would be First Name and Last Name. Using string functions, change the name to proper case (for example to Rahul or Gandhi) and store in E and F. Original data should remain. Save and close the worksheet.**
+3. **Open "Student.xslx". Create another table using column E and F. Again the heading would be First Name and Last Name. Using string functions, change the name to proper case (for example to Rahul or Gandhi) and store in E and F. Original data should remain. Save and close the worksheet.**
 ![Excel Labwork](images/Image08.png "Add Update sheets count")
 String function PROPER is used for A2 cell data for First Name and B2 for Last Name
 [Student-Workbook](https://1drv.ms/x/s!AnCi4pjT6ASAhA0C8vuq9z3DuU3n?e=rBPQBx)
